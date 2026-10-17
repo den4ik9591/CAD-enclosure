@@ -6,7 +6,9 @@ A XIAO ESP32-C3 draws a wandering pet on a 0.96" OLED. Press a button to open a 
 
 Made for Half Life, following the Starbie guide and then changed to make it my own.
 
-Show Image Show Image
+<img width="1128" height="690" alt="Screenshot 2026-10-15 204012" src="https://github.com/user-attachments/assets/ec19e035-5e0e-4fc2-bb67-5701eeabd12b" />
+<img width="1753" height="1050" alt="Screenshot 2026-10-15 194416" src="https://github.com/user-attachments/assets/5c94f812-a6af-4b10-814b-e1b728adc99c" />
+
 
 What I made
 PCB (KiCad): a custom star-shaped board. I added the 10k pull-up resistor for the DHT11 that the guide forgot, and exported the Gerbers.
